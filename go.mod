@@ -1,4 +1,4 @@
-module github.com/qiniupd/qiniu-go-sdk
+module github.com/ufilesdk-dev/us3-qiniu-go-sdk
 
 go 1.15
 
