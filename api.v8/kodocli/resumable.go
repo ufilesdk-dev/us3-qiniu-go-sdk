@@ -6,7 +6,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/qiniupd/qiniu-go-sdk/x/xlog.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/xlog.v7"
 
 	. "context"
 )

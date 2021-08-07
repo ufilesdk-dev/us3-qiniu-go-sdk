@@ -5,11 +5,11 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/qiniupd/qiniu-go-sdk/x/ctype.v7"
-	"github.com/qiniupd/qiniu-go-sdk/x/rpc.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/ctype.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/rpc.v7"
 )
 
-var version = "7.1.0"
+var version = "1.0.5"
 
 var ACCESS_KEY string
 var SECRET_KEY string
@@ -32,7 +32,7 @@ func SetAppName(userApp string) error {
 }
 
 func init() {
-	SetAppName("0.1.22")
+	SetAppName("")
 }
 
 // ----------------------------------------------------------

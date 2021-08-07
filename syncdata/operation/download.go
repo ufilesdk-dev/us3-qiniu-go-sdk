@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/qiniupd/qiniu-go-sdk/api.v7/auth/qbox"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v7/auth/qbox"
 )
 
 var downloadClient = &http.Client{

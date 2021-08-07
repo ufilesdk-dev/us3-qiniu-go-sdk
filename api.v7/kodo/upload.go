@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/qiniupd/qiniu-go-sdk/api.v7/kodocli"
-	"github.com/qiniupd/qiniu-go-sdk/x/rpc.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v7/kodocli"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/rpc.v7"
 )
 
 type PutExtra kodocli.PutExtra

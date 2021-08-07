@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"context"
-	"github.com/qiniupd/qiniu-go-sdk/x/log.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/log.v7"
 )
 
 const logKey = "X-Log"

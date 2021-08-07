@@ -15,10 +15,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/qiniupd/qiniu-go-sdk/api.v8/kodo"
-	"github.com/qiniupd/qiniu-go-sdk/api.v8/limit"
-	"github.com/qiniupd/qiniu-go-sdk/x/httputil.v1"
-	"github.com/qiniupd/qiniu-go-sdk/x/xlog.v8"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v8/kodo"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v8/limit"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/httputil.v1"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/xlog.v8"
 )
 
 const minUploadPartSize = 1 << 22

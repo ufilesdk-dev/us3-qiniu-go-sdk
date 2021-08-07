@@ -2,8 +2,8 @@ package operation
 
 import (
 	"encoding/json"
-	"github.com/qiniupd/qiniu-go-sdk/api.v7/auth/qbox"
-	"github.com/qiniupd/qiniu-go-sdk/api.v7/kodo"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v7/auth/qbox"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v7/kodo"
 	"io"
 	"sync/atomic"
 )

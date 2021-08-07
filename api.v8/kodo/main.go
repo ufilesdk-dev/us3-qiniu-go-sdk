@@ -3,9 +3,9 @@ package kodo
 import (
 	"net/http"
 
-	"github.com/qiniupd/qiniu-go-sdk/api.v7/auth/qbox"
-	"github.com/qiniupd/qiniu-go-sdk/api.v7/conf"
-	"github.com/qiniupd/qiniu-go-sdk/x/rpc.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v7/auth/qbox"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v7/conf"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/rpc.v7"
 )
 
 // ----------------------------------------------------------

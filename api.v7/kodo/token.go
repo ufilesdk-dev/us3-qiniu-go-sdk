@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qiniupd/qiniu-go-sdk/api.v7/api"
-	"github.com/qiniupd/qiniu-go-sdk/api.v7/auth/qbox"
-	"github.com/qiniupd/qiniu-go-sdk/x/url.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v7/api"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/api.v7/auth/qbox"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/url.v7"
 )
 
 // ----------------------------------------------------------

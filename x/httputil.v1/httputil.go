@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/qiniupd/qiniu-go-sdk/x/xlog.v8"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/xlog.v8"
 
-	"github.com/qiniupd/qiniu-go-sdk/x/errors.v1"
-	"github.com/qiniupd/qiniu-go-sdk/x/log.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/errors.v1"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/log.v7"
 )
 
 // ---------------------------------------------------------------------------

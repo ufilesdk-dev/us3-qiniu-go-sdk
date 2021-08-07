@@ -18,9 +18,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qiniupd/qiniu-go-sdk/x/httputil.v1"
-	"github.com/qiniupd/qiniu-go-sdk/x/rpc.v7"
-	"github.com/qiniupd/qiniu-go-sdk/x/xlog.v8"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/httputil.v1"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/rpc.v7"
+	"github.com/ufilesdk-dev/us3-qiniu-go-sdk/x/xlog.v8"
 )
 
 // ----------------------------------------------------------
